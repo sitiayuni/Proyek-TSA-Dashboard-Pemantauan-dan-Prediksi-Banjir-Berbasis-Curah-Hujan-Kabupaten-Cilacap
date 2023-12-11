@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+statsmodels
+streamlit
+plotly
+joblib
+streamlit-option-menu
+catboost
+xgboost
